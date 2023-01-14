@@ -47,18 +47,15 @@ Google Cloud,  -->
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 
-  
-
-<!--- <i>Random dev joke for you!</i><br><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>--->
-
-
-<!---<h3 align='center'> Connect with Me </h3>--->
+<h3 align='center'> Connect with Me </h3>
 <p align="center">
- &nbsp; <a href="https://www.linkedin.com/in/pranita-dane-075454193/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:Pranitadane64@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-
-</p>
+<a href="mailto:Pranitadane64@gmail.com" target="_blank">
+  <img align="center" alt="Keyur's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pranita-dane-075454193/" target="_blank">
+  <img align="center" alt="Keyur's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a> 
 
 
 ### :zap: Github Stats
@@ -71,17 +68,8 @@ Google Cloud,  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">If you're still reading, why not follow me ?? Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30'></h3>
 
-If you're still reading, why not follow me ?? Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30' > 
 
 ⭐️ From [pranita28Dane](https://github.com/pranita28Dane)
-  
-  
-  
-  
-  
-  
-  
-
-
 
