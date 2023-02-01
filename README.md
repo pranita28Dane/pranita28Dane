@@ -16,7 +16,6 @@
 </p>
 <br>
 
-- I’m *currently*  *working* on my **laptop** 👨‍💻
 - I’m  currently learning **Backend Development** With Django Framework
 - Goals 🌱  for 2023: Build aweome projects and Contribute to Open Source
 - I belive, a perfect cup of coffee ☕ can be the ultimate solution for any stress
