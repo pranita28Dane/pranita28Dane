@@ -21,12 +21,6 @@
 - I belive, a perfect cup of coffee ☕ can be the ultimate solution for any stress
 - **Fun fact:** You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.</br>
 
-
-<!-- <h4>Tech Stack 🧰</h4>
-HTML,CSS,Javascript,
- C,C++,Python,Django,PHP
- Git,Visual Studio Code,
-Google Cloud,  -->
   ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
@@ -56,20 +50,25 @@ Google Cloud,  -->
   <img align="center" alt="Keyur's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a> 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranita28Dane&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/pranita28Dane" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=pranita28Dane&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pranita28Dane&limit=5&theme=nord&combine_all_yearly_contributions=true)
+  
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <h3 align="center">If you're still reading, why not follow me ?? Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30'></h3>
 
  [![](https://visitcount.itsvg.in/api?pranita28Dane&icon=0&color=0)](https://visitcount.itsvg.in) 
 ⭐️ From [pranita28Dane](https://github.com/pranita28Dane)
+
+  
+
+
+  
+  
 
 
