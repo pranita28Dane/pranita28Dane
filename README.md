@@ -62,9 +62,9 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <h3 align="center">If you're still reading, why not follow me ?? Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30'></h3>
 
- [![](https://visitcount.itsvg.in/api?pranita28Dane&icon=0&color=0)](https://visitcount.itsvg.in) 
 ⭐️ From [pranita28Dane](https://github.com/pranita28Dane)
-
+--
+[![](https://visitcount.itsvg.in/api?id=pranita28Dane&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
   
 
 
