@@ -57,7 +57,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranita28Dane&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=pranita28Dane&limit=5&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
