@@ -53,7 +53,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranita28Dane&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranita28Dane&limit=5&theme=nord&combine_all_yearly_contributions=true)
@@ -61,6 +62,7 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <h3 align="center">If you're still reading, why not follow me ?? Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30'></h3>
+'https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranita28Dane&theme=github_dark&utcOffset=8'
 
 ⭐️ From [pranita28Dane](https://github.com/pranita28Dane)
 --
