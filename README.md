@@ -1,71 +1,41 @@
-<h1 align="center">Hello 👋, I'm Pranita</h1>
-
-
-
-<p>
-  <em>
-    <img src="https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif" align="right" width="400">
-    I am final year student pursuing Masters of Computer Science in India. <br>
-    <b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;👩‍💻 </br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> 🚀and 
-    <b>excel</b> 🏅 <br>
-    I Love <b>Software Development</b> : <br>
-  </em>
-  
-</p>
-<br>
-
-- I’m  currently learning **Backend Development** With Django Framework
-- Goals 🌱  for 2023: Build aweome projects and Contribute to Open Source
-- I belive, a perfect cup of coffee ☕ can be the ultimate solution for any stress
-- **Fun fact:** You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.</br>
-
-  ### Languages and Tools: 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+# :wave: Hello <b>Developers</b>, I am <b>Pranita Dane</b>
+A self-taught geek Developer and Builder in Python full-stack web development, open-source enthusiast, cloud enthusiast, and I am a curious programmer who loves to solve the real world problems. I work in Python, with frontend and backend tools proficient in Python-Djnago stack, created various projects using these technology, and also contributed to open-source projects. I highly drive myself to bring quality, interactive, and user-friendly applications with optimal solutions. The learning curve is always high and dedicated to technology for upskilling.
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif" align="right" width="300">
 
-### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
+# 💫About Me :
+- :seedling: I am currently learning cloud and DevOps.
+- :earth_africa:	I like to contribute to open source and explore github.
+- :handshake: If you want any collaboration feel free to mail me at pranitadane64@gmail.com.
+- :v: I'm open to opportunities.
+- 💬 Ask me about Good First Issues & Exciting projects to work on.<br>
+- :zap: Fun fact: You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 
-<h3 align='center'> Connect with Me </h3>
-<p align="center">
-<a href="mailto:Pranitadane64@gmail.com" target="_blank">
-  <img align="center" alt="Keyur's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/pranita-dane-075454193/" target="_blank">
-  <img align="center" alt="Keyur's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a> 
+<br>
+
+## 🌐Socials
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pranita28dane.github.io/MyPortfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranitadane/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://Pranitadane64@Gmail.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PranitaDane)
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranita28Dane&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranita28Dane&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pranita28Dane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranita28Dane&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita28Dane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranita28Dane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranita28Dane&limit=5&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<h3 align="center">If you're still reading, why not follow me ?? Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30'></h3>
+![](https://github-contributor-stats.vercel.app/api?username=pranita28Dane&limit=5&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-⭐️ From [pranita28Dane](https://github.com/pranita28Dane)
---
 [![](https://visitcount.itsvg.in/api?id=pranita28Dane&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
   
 
